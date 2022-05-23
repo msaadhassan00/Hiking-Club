@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.bgimg{
+    background-image: url(images/mountain-background.png);
+    height: 44rem;
+}
+.hght{
+    margin-top: 10rem;;
+}
+.fs{
+    font-size: 65px;
+}
+.bgimgg{
+    background-image: url(images/Woods-walking-hero.jpg);
+    height: 20rem;
+}
+.bgbg{
+    background-color: #EFD7D7;
+}
